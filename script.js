@@ -31,6 +31,9 @@ const LANGUAGES = {
             "audio/cn/gururu.mp3",
             "audio/cn/转圈圈.mp3",
             "audio/cn/转圈圈咯.mp3",
+            "audio/ja/kuruto.mp3",
+            "audio/ja/kuru1.mp3",
+            "audio/ja/kuru2.mp3",
         ],
         texts: {
             "page-title": "黑塔转圈圈",
