@@ -87,7 +87,7 @@ const LANGUAGES = {
     }
 };
 
-var current_language = localStorage.getItem("lang") || "en";
+var current_language = "cn";
 if (current_language != "en") {
     document.getElementById("language-selector").value = current_language;
 };
