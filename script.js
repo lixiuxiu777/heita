@@ -20,9 +20,7 @@ const LANGUAGES = {
             "counter-descriptions": ["The kuru~ has been squished for", "Herta has been kuru~ed for"],
             "counter-unit": "times",
             "counter-button": ["Squish the kuru~!", "Kuru kuru~!"],
-            "credits-gif": "Herta gif made by",
-            "footer-repository-text": "You can check out the GitHub repository here:",
-            "footer-repository-text-2": "herta_kuru repo"
+            "credits-gif": "Herta gif made by"
         },
         cardImage: "img/card_en.jpg"
     }, "cn": {
@@ -42,9 +40,7 @@ const LANGUAGES = {
             "counter-descriptions": ["黑塔已经咕噜噜~了", "黑塔已经转了"],
             "counter-unit": ["次", "次圈圈"],
             "counter-button": ["转圈圈~", "咕噜噜！"],
-            "credits-gif": "黑塔GIF作者：",
-            "footer-repository-text": "源代码在此：",
-            "footer-repository-text-2": "herta_kuru 仓库"
+            "credits-gif": "黑塔GIF作者："
         },
         cardImage: "img/card_cn.jpg"
     },
@@ -62,9 +58,7 @@ const LANGUAGES = {
             "counter-descriptions": "全世界のクル再生数",
             "counter-unit": "回",
             "counter-button": "クル クル~!",
-            "credits-gif": "GIF作成者は",
-            "footer-repository-text": "こちらはこのページGitHubリポジトリ:",
-            "footer-repository-text-2": "herta_kuru リポジトリ"
+            "credits-gif": "GIF作成者は"
         },
         cardImage: "img/card_ja.jpg"
     },
@@ -82,9 +76,7 @@ const LANGUAGES = {
             "counter-descriptions": "전 세계 빙글 조회수",
             "counter-unit": "번",
             "counter-button": "빙글 빙글~!",
-            "credits-gif": "gif의 제작자입니다",
-            "footer-repository-text": "여기 github 리 포지 토리가 있습니다:",
-            "footer-repository-text-2": "herta_kuru 리 포지 토리"
+            "credits-gif": "gif의 제작자입니다"
         },
         cardImage: "img/card_kr.jpg"
     }
